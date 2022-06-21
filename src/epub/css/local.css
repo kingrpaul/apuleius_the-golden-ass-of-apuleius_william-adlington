@@ -19,3 +19,12 @@
 [epub|type~="z3998:hymn"] [epub|type~="bridgehead"]{
 	text-align: justify;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
