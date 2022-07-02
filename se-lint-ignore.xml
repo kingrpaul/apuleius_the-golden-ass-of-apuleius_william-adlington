@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="publishers-introduction.xhtml">
+		<ignore>
+			<code>s-084</code>
+			<reason>alternate title for the present work, which is not a poem</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
