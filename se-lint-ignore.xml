@@ -6,4 +6,16 @@
 			<reason>alternate title for the present work, which is not a poem</reason>
 		</ignore>
 	</file>
+	<file path="translators-dedication.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>manually applied se titlecase, suggested version does not differ</reason>
+		</ignore>
+	</file>
+	<file path="editors-dedication.xhtml">
+		<ignore>
+			<code>s-046</code>
+			<reason>spans support styling of second line, standardebooks.org/manual/1.6.4/single-page#7.3.3</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
