@@ -9,10 +9,6 @@
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] i{
-	font-style: normal;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -71,11 +67,6 @@ section[epub|type~="dedication"]{
 	line-height: 1.8;
 	text-align: center;
 	text-transform: uppercase;
-}
-
-section[epub|type~="dedication"] span:nth-of-type(2){
-	font-variant: normal;
-	letter-spacing: 1px;
 }
 
 section[epub|type~="dedication"] > *{
