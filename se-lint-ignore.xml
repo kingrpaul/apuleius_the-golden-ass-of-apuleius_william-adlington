@@ -6,10 +6,4 @@
 			<reason>alternate title for the present work, which is not a poem</reason>
 		</ignore>
 	</file>
-	<file path="foreword-2.xhtml">
-		<ignore>
-			<code>s-023</code>
-			<reason>manually applied se titlecase, suggested version does not differ</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
