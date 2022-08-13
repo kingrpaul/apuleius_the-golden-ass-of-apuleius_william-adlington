@@ -50,6 +50,25 @@ p span.i1{
 }
 /* End all epigraphs */
 
+/* Epigraphs in section headers */
+section > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+section > header > p + blockquote[epub|type~="epigraph"]{
+	margin-top: 1em;
+}
+
+@supports(display: table){
+	section > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
+/* End epigraphs in section headers */
+
 /* All dedications */
 section[epub|type~="dedication"]{
 	font-variant: all-small-caps;
