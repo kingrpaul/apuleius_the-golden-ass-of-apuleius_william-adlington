@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2010101570</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">In The Golden Ass, or Metamorphoses, the author narrates his own provincial Greek odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.</dc:description>
+		<dc:description id="description">Curious Lucius turns himself into a donkey while learning magic and turns his Greek business trip into an odyssey of tribulation and spiritual growth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;The Golden Ass&lt;/i&gt;, or &lt;i&gt;Metamorphoses&lt;/i&gt;, the author narrates his own provincial Greek odyssey in a world where old gods rule, myth informs life, Fortune is fickle, Thessalian witches are puissant, and a curious man seeking to learn their craft might well lament making an ass of himself.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/apuleius"&gt;Lucius Apuleius&lt;/a&gt; was a second century speaker and writer born in present-day Algeria who authors, narrates, and is the subject of this bawdy, picaresque, quasi-autobiographical story. He himself traveled extensively, studied philosophy, was initiated into mystery cults, and became a priest. He was also tried for witchcraft, accused of having betrothed his wife Pudentilla by charms other than those of his personality.&lt;/p&gt;
