@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/apuleius/the-golden-ass-of-apuleius/william-adlington</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/apuleius/the-golden-ass/william-adlington</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The Golden Ass of Apuleius</dc:title>
-		<meta property="file-as" refines="#title">Golden Ass of Apuleius, The</meta>
+		<dc:title id="title">The Golden Ass</dc:title>
+		<meta property="file-as" refines="#title">Golden Ass, The</meta>
 		<dc:subject id="subject-1">Classical literature</dc:subject>
 		<dc:subject id="subject-2">Metamorphosis -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -48,7 +48,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Golden_Ass</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/apuleius_the-golden-ass-of-apuleius_william-adlington</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/apuleius_the-golden-ass_william-adlington</meta>
 		<dc:creator id="author">Apuleius</dc:creator>
 		<meta property="file-as" refines="#author">Apuleius</meta>
 		<meta property="se:name.person.full-name" refines="#author">Lucius Apuleius Africanus</meta>
